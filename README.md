@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ---
 
 <!-- Random Developer Quote -->
-### 💬 **Random Dev Quote**
+### 💬 **Quote of the Day**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
