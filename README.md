@@ -19,6 +19,9 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33A1F7&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Bereket!+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!+%F0%9F%9A%80;Building+Innovative+Solutions!+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bereketDeneke&theme=radical&no-bg=true)
+
 <!-- GitHub Stats Section -->
 ## 📊 **GitHub Stats**
 <div align="center">
@@ -45,4 +48,8 @@ Here are some ideas to get you started:
 ### 🔥 **Profile Views**
 ![Visitor Count](https://komarev.com/ghpvc/?username=bereketDeneke&color=blue&style=flat-square)
 
+---
+
+## 🌎 Global Visitors
+![Visitor Map](https://raw.githubusercontent.com/bereketDeneke/bereketDeneke/master/profile-3d-contrib/profile-night-rainbow.svg)
 ---
