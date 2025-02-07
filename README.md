@@ -48,5 +48,4 @@ Here are some ideas to get you started:
 ### 🔥 **Profile Views**
 ![Visitor Count](https://komarev.com/ghpvc/?username=bereketDeneke&color=blue&style=flat-square)
 ---
-## 🐍 Contribution Graph
-![Contribution Graph](https://github.com/bereketDeneke/bereketDeneke/blob/output/github-contribution-grid-snake.svg)
+
