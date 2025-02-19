@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 
 
 <!-- Banner Section -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33A1F7&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Bereket!+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!+%F0%9F%9A%80;Building+Innovative+Solutions!+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
--->
 <!-- 🚀 Banner Section - Brace Yourself, It's About to Get Awesome! -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33A1F7&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Bereket!+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!+%F0%9F%9A%80;Building+Cool+Stuff!+%E2%9C%8C%EF%B8%8F;Writing+Code+That+Actually+Works!+%F0%9F%A4%94;Solving+Bugs+Like+A+Detective+%F0%9F%94%8E;Wait%2C+I+Got+More!;Turning+Coffee+Into+Code!+%E2%98%95;Still+Loading...+%E2%9A%99%EF%B8%8F;Almost+There%2C+Hang+Tight!+%F0%9F%A4%A9;Done!+Let's+Build+Something+Awesome!+%F0%9F%A4%9D" alt="Typing SVG" />
-</p>
+
 
 <!-- GitHub Stats Section -->
 ## 📊 **GitHub Stats**
