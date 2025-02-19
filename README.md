@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- GitHub Stats Section -->
 ## 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereketDeneke&theme=dark" alt="GitHub Streak Stats" height="180px"/>
+ <img src="https://git-hub-streak-stats.vercel.app?user=bereketDeneke&theme=tokyonight" alt="GitHub Streak" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=bereketDeneke&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereketDeneke&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180px"/>
 </div>
