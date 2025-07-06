@@ -31,12 +31,6 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- Contribution Graph -->
-## 🚀 **My GitHub Contributions**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bereketDeneke&theme=react-dark&hide_border=true&area=true)
-
----
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bereketDeneke&theme=radical&no-bg=true)
 ---
