@@ -20,27 +20,11 @@ Here are some ideas to get you started:
 </p>
 <!-- 🚀 Banner Section - Brace Yourself, It's About to Get Awesome! -->
 
-
-<!-- GitHub Stats Section -->
-## 📊 **GitHub Stats**
-<div align="center">
- <img src="https://git-hub-streak-stats.vercel.app?user=bereketDeneke&theme=tokyonight" alt="GitHub Streak" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=bereketDeneke&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereketDeneke&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180px"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bereketDeneke&theme=radical&no-bg=true)
----
-
 <!-- Random Developer Quote -->
 ### 💬 **Quote of the Day**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
 <!-- Visitor Counter -->
 ### 🔥 **Profile Views**
 ![Visitor Count](https://komarev.com/ghpvc/?username=bereketDeneke&color=blue&style=flat-square)
